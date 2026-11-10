@@ -1,0 +1,22 @@
+{
+  "author": "Imran Ahmed",
+  "email": "me@imrandev.bd",
+  "website": "https://imrandev.bd",
+  "contact": "https://imrandev.bd/contact",
+  "github_owner": "imranbru99",
+  "repoName": "pharmacy-wholesale-distribution",
+  "description": "Pharmacy Wholesale Distribution — Healthcare Trading Laravel Filament ERP/SaaS for Bangladesh (Dhaka). Pharma wholesale for batch/expiry, schemes, retailer credit, and cold-chain SKUs. Docker-ready. By Imran Ahmed | imrandev.bd",
+  "topics": [
+    "laravel",
+    "filament",
+    "erp",
+    "saas",
+    "bangladesh",
+    "docker",
+    "php",
+    "business-software",
+    "healthcare-trading",
+    "imrandevbd"
+  ],
+  "homepage": "https://imrandev.bd/applications/pharmacy-wholesale-distribution"
+}
